@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsUSA Mega Man", "Assembly-CSharp.csproj", "{0546480A-5109-3597-378E-53484AC329DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsUSA Mega Man", "Assembly-CSharp-firstpass.csproj", "{F5804023-65AC-86C8-57E5-3F88B0C5E65A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsUSA Mega Man", "Assembly-CSharp-Editor-firstpass.csproj", "{3EAA7FF0-0769-C7C9-E7A1-84CAA6469A65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0546480A-5109-3597-378E-53484AC329DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0546480A-5109-3597-378E-53484AC329DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0546480A-5109-3597-378E-53484AC329DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0546480A-5109-3597-378E-53484AC329DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5804023-65AC-86C8-57E5-3F88B0C5E65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5804023-65AC-86C8-57E5-3F88B0C5E65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5804023-65AC-86C8-57E5-3F88B0C5E65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5804023-65AC-86C8-57E5-3F88B0C5E65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAA7FF0-0769-C7C9-E7A1-84CAA6469A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAA7FF0-0769-C7C9-E7A1-84CAA6469A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAA7FF0-0769-C7C9-E7A1-84CAA6469A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAA7FF0-0769-C7C9-E7A1-84CAA6469A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
